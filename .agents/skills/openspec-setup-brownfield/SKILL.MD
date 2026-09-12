@@ -1,3 +1,4 @@
+---
 name: openspec-setup-brownfield
 description: Inicializa OpenSpec em projetos brownfield (com código existente em produção).
 metadata:
